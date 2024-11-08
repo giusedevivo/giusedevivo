@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Giuseppe 👋
 
-<!--
-**giusedevivo/giusedevivo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Science Graduate
+- 💼 Transitioning into Cybersecurity
+- 📚 Currently studying for CompTIA Security+
+- 🔒 Passionate about Information Security
+- 🌱 Continuously learning and growing in the cybersecurity field
 
-Here are some ideas to get you started:
+## Current Focus
+- 📗 Preparing for CompTIA Security+ certification
+- 💻 Learning Kali Linux fundamentals
+- 🛡️ Building a Security Testing Home Lab
+- 🌐 Developing network analysis skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- 💻 Programming: Python, .NET, Java, C#
+- 🛠️ Security Tools: Kali Linux (learning), Wireshark, Metasploit (learning)
+- 🖥️ Operating Systems: Windows, Linux
+- 🔧 Tools & Technologies: (learning)
+
+## Learning Progress
+- [✓] Linux Fundamentals
+- [ ] Study Environment Setup
+- [ ] CompTIA Security+ (In Progress)
+- [ ] Basic Penetration Testing
+- [ ] Network Security Analysis
+
+## Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/giuseppedevivo/
+- 📧 Email: giuse.devivo@gmail.com
+- 🌐 Portfolio: (coming soon)
+
+---
+🚀 Open to cybersecurity opportunities and collaborations
