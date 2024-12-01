@@ -1,5 +1,9 @@
 # Hi, I'm Giuseppe 👋
 
+## Professional Statement
+
+I am a detail-oriented professional with a strong passion for cybersecurity and a commitment to protecting organizations and individuals from evolving threats. My strengths in precision, effective communication, and continuous learning enable me to analyze complex security challenges and collaborate with teams to implement solutions. I am eager to apply my skills to help organizations achieve robust security measures while staying ahead of emerging risks.
+
 ## About Me
 - 🎓 Computer Science Graduate
 - 💼 Transitioning into Cybersecurity
